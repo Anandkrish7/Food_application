@@ -4,7 +4,7 @@ function Textbox()
     return (
         <>
           <div className="text-box">
-            <h1 className="two-colored-text">Best Deals<span class="highlight-color">Crispy Diffen</span></h1>
+            <h1 className="two-colored-text">Best Deals<span className="highlight-color">Crispy Diffen</span></h1>
             <p id="tagline">Enjoy the large size of Dosa. Complete perfect slice of Dosa.</p>
           </div>
               <button id="orderplace-btn">PLACE YOUR ORDER<span>
