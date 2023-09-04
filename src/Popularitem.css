@@ -1,0 +1,269 @@
+#popular{
+    margin-top: 200px;
+    color: var(--theme-gray-900, #212121);
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 112%; /* 48.16px */
+  }
+  .popular-items1{
+    
+    display: flex;
+    margin-left: 10px;
+    margin-right: 50px;
+  }
+  .popular-items2{
+    
+    display: flex;
+    margin-left: 10px;
+    margin-right: 50px;
+  }
+  
+  
+  
+  .product-card{
+    margin-top: 150px;
+    margin-left: 50px;
+  
+  }
+  
+  .product-card .product-image{
+    border-radius: 10px;
+    width: 200px;
+  height: 200px;
+  }
+  
+   .product-name{
+  margin-top: 20px;
+    color: var(--theme-gray-800, #424242);
+    font-family: 'Open Sans', sans-serif;
+  text-align: center;  
+  
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%; /* 26.4px */
+  }
+  
+  .order-button{
+    margin-top: 20px;
+    display: flex;
+  width: 200px;
+  padding: 16px 4px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: var(--theme-warning, #F17228);
+  
+  /* Shadow/2 */
+  box-shadow: 0px 20px 40px 0px rgba(250, 99, 35, 0.24), 0px 5px 10px 0px rgba(253, 114, 92, 0.22);
+  color: var(--theme-white, #FFF);
+  text-align: center;
+  
+  /* Button Bold */
+  font-family: 'Open Sans', sans-serif;
+  text-decoration:none;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 18px */
+  }
+  .product-card1{
+    margin-top: 150px;
+    margin-left: 50px;
+  
+  }
+  
+  .product-card1 .product-image1{
+    border-radius: 10px;
+    width: 200px;
+  height: 200px;
+  }
+  
+   .product-name1{
+  margin-top: 20px;
+    color: var(--theme-gray-800, #424242);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    
+  
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%; /* 26.4px */
+  }
+  
+  .order-button1{
+    margin-top: 20px;
+    display: flex;
+  width: 200px;
+  padding: 16px 4px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: var(--theme-warning, #F17228);
+  
+  /* Shadow/2 */
+  box-shadow: 0px 20px 40px 0px rgba(250, 99, 35, 0.24), 0px 5px 10px 0px rgba(253, 114, 92, 0.22);
+  color: var(--theme-white, #FFF);
+  text-align: center;
+  
+  /* Button Bold */
+  font-family: 'Open Sans', sans-serif;
+  text-decoration:none;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 18px */
+  }
+  .product-card2{
+    margin-top: 150px;
+    margin-left: 50px;
+  
+  }
+  
+  .product-card2 .product-image2{
+    border-radius: 10px;
+    width: 200px;
+  height: 200px;
+  }
+  
+   .product-name2{
+  margin-top: 20px;
+    color: var(--theme-gray-800, #424242);
+    font-family: 'Open Sans', sans-serif;
+  text-align: center;  
+  
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%; /* 26.4px */
+  }
+  
+  .order-button2{
+    margin-top: 20px;
+    display: flex;
+  width: 200px;
+  padding: 16px 4px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: var(--theme-warning, #F17228);
+  
+  /* Shadow/2 */
+  box-shadow: 0px 20px 40px 0px rgba(250, 99, 35, 0.24), 0px 5px 10px 0px rgba(253, 114, 92, 0.22);
+  color: var(--theme-white, #FFF);
+  text-align: center;
+  
+  /* Button Bold */
+  font-family: 'Open Sans', sans-serif;
+  text-decoration:none;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 18px */
+  }
+  
+  .product-card3{
+    margin-top: 150px;
+    margin-left: 50px;
+  
+  }
+  
+  .product-card3 .product-image3{
+    border-radius: 10px;
+    width: 200px;
+  height: 200px;
+  }
+  
+   .product-name3{
+  margin-top: 20px;
+    color: var(--theme-gray-800, #424242);
+    font-family: 'Open Sans', sans-serif;
+  text-align: center;  
+  
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%; /* 26.4px */
+  }
+  
+  .order-button3{
+    margin-top: 20px;
+    display: flex;
+  width: 200px;
+  padding: 16px 4px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: var(--theme-warning, #F17228);
+  
+  /* Shadow/2 */
+  box-shadow: 0px 20px 40px 0px rgba(250, 99, 35, 0.24), 0px 5px 10px 0px rgba(253, 114, 92, 0.22);
+  color: var(--theme-white, #FFF);
+  text-align: center;
+  
+  /* Button Bold */
+  font-family: 'Open Sans', sans-serif;
+  text-decoration:none;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 18px */
+  }
+  
+  .product-card4{
+    margin-top: 150px;
+    margin-left: 50px;
+  
+  }
+  
+  .product-card4 .product-image4{
+    border-radius: 10px;
+    width: 200px;
+  height: 200px;
+  }
+  
+   .product-name4{
+  margin-top: 20px;
+    color: var(--theme-gray-800, #424242);
+    font-family: 'Open Sans', sans-serif;
+  text-align: center;  
+  
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%; /* 26.4px */
+  }
+  
+  .order-button4{
+    margin-top: 20px;
+    display: flex;
+  width: 200px;
+  padding: 16px 4px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: var(--theme-warning, #F17228);
+  
+  /* Shadow/2 */
+  box-shadow: 0px 20px 40px 0px rgba(250, 99, 35, 0.24), 0px 5px 10px 0px rgba(253, 114, 92, 0.22);
+  color: var(--theme-white, #FFF);
+  text-align: center;
+  
+  /* Button Bold */
+  font-family: 'Open Sans', sans-serif;
+  text-decoration:none;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 18px */
+  }
